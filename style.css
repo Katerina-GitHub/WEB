@@ -1,0 +1,45 @@
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    
+}
+.wrapper {
+    margin: 0 auto;
+    width: 900px; 
+    }
+
+header li{
+    list-style: none;
+    display: inline;
+    font-size: 30 px;
+    padding: 2%;
+    cursor: grab;
+    border-radius: 5px;
+    transition: 1s;
+}
+header li:hover {
+    background-color:darksalmon;
+}
+.picture_wrap{
+    display: flex;
+}
+img{
+    margin: 100px;
+    border: 10px solid darkgray
+}
+.p_wrap{
+    background-color: antiquewhite;
+    color: lightseagreen;
+}
+.footer_wrap{
+    height: 150px;
+    width:100%;
+    background-color:darkgray;
+    display:inline-flex;
+    padding-left: 10%;
+    padding-top: 10%;
+    margin: 0 auto;
+    }
+footer h4{
+    margin: 0 auto;
+    padding-top: 5%;
+}
