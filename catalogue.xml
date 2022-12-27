@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--<req>
+    <surname>Иванов</surname>
+    <name>Иван</name>
+    <patronymic>Иванович</patronymic>
+    <birthdate>01.01.1990</birthdate>
+    <birthplace>Москва</birthplace>
+    <phone>8 926 766 48 48</phone>
+</req>
+-->
+<clinic>
+<patients>
+    <patient>
+    <surname>Иванов</surname>
+    <name>Иван</name>
+    <birthdate>01.01.1990</birthdate>
+    <ward>6</ward>
+    </patient>
+    <patient>
+    <surname>Петров</surname>
+    <name>Петр</name>
+    <birthdate>03.10.1991</birthdate>
+    <ward>6</ward>
+    </patient>
+    <patient>
+    <surname>Васечкин</surname>
+    <name>Василий</name>
+    <birthdate>10.11.1995</birthdate>
+    <ward>6</ward>
+    </patient>
+    </patients>
+    <doctors>
+    <doctor>
+    <surname>Фрейд</surname>
+    <name>Зигмунд</name>
+    <birthdate>01.01.1890</birthdate>
+    <speciality>Психолог</speciality>
+    </doctor>
+    <doctor>
+    <surname>Кащенко</surname>
+    <name>Петр</name>
+    <birthdate>10.03.1950</birthdate>
+    <speciality>Психолог</speciality>
+    </doctor>
+    </doctors>
+</clinic>
